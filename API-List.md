@@ -20,7 +20,7 @@ aus einer Reihe von beliebten Nachrichtenquellen in JSON-Architektur mit einem A
 https://newsdata.io
 ```
 
-## ranslation APIs
+## Translation APIs
 
 Es gibt mehrere APIs für die Übersetzung von Text in verschiedene Sprachen wie Yandex Translator und Google translate. 
 Aber wenn du ein Nerd bist, dann sind hier einige Übersetzer, die in Sindarin (aus Herr der Ringe) und Ich bin Groot 
